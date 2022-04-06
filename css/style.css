@@ -2,12 +2,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Hurricane&display=swap');body{
     background: url(../images/fondo.jpg) ;
     text-align: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    font-family: "Hurricane" , cursive;
     background-color: ff3317;
 }
 button{
     padding: 12px 60px;
    
- margin: 10px 20px;
+margin: 10px 20px;
 font-size: 24px;        
 background-color: #000000;
 color: #ffffff;
@@ -24,7 +28,9 @@ button:hover{
 }
 h1{
 color: ff3317;
-
-
-
+font-size; 35px;
+}
+h2{
+color: ff3317;
+font-size; 35px;
 }
